@@ -5,3 +5,5 @@ File finder can be called from the executer to perform stats on a whole folders 
 As of now, data analyzer v10, circular_stats is excluded
 
 Ensure all files are addedto path
+
+Still a work in progress, may have inaccuracies. 
